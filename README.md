@@ -1,7 +1,7 @@
 <!-- Glad to see you diving deep into my README. If you've come this far, a ⭐ to this repo will be much appreciated ;)  -->
 
 <!-- GitHub Intro Banner Start -->
-<!-- <img width="100%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
+<img width="100%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <!-- GitHub Intro Banner End -->
 
 
@@ -48,14 +48,14 @@ class JineshParakh:
                 "CP Lead" : "DSC PICT",
                 "Editor in Chief" : "Pictoreal"
             },
-            "⚡ Funfact" : "Could have added languages & handles over here itself but couldn't resist using the badges"
+            "⚡ Funfact" : "Could've added languages & handles over here itself but couldn't resist using badges"
         }
 
     def sayHello(self):
         print("Hello, thanks for dropping by. Do ⭐ the repo if you liked it!\n")
 
     def getInfo(self):
-        print(json.dumps(self.info, sort_keys=False, indent=4, ensure_ascii=False))
+        print(json.dumps(self.info, sort_keys = False, indent = 4, ensure_ascii = False))
 
 jineshparakh = JineshParakh()
 
