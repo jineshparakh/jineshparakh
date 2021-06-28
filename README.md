@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm < Jinesh /></h1>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jineshparakh.jineshparakh)
+<p align="center">
+    <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=jineshparakh.visitor.badge.reloaded.23.5.2021&color=55acb7&style=for-the-badge&logo=Github&text=Profile_Views" alt="Jinesh's Profile Views" />
+</p>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
@@ -36,10 +37,17 @@ jinesh = {
 }
 
 ```
-
-<h3 align="left">Connect with me:</h3>
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40px"/> </h2>
 <p align="center">
-<a href="https://www.codechef.com/users/jineshparakh" target="blank"><img alt="jineshparakh" src="https://img.shields.io/badge/codechef-%623151A.svg?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+<a href="mailto:jineshparakh2000@gmail.com" target="blank"><img alt="Gmail" src="https://img.shields.io/badge/jineshparakh2000@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jinesh-parakh/" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:jineshparakh@hotmail.com" target="blank"><img alt="Outlook" src="https://img.shields.io/badge/jineshparakh@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+</p>
+
+
+<h2> Problem Solving Handles <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40px"/> </h2>
+<p align="center">
+<a href="https://www.codechef.com/users/jineshparakh" target="blank"><img alt="jineshparakh" src="https://img.shields.io/badge/codechef-%6C3B1C.svg?style=for-the-badge&logo=codechef&logoColor=white&color=6C3B1C"/></a>
 <a href="https://www.hackerrank.com/jineshparakh" target="blank"><img alt="jineshparakh" src="https://img.shields.io/badge/hackerrank-%59AA4D.svg?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 <a href="https://codeforces.com/profile/jineshparakh" target="blank"><img alt="jineshparakh" src="https://img.shields.io/badge/codeforces-%623151A.svg?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
 <a href="https://www.leetcode.com/jineshparakh" target="blank"><img alt="jineshparakh" src="https://img.shields.io/badge/leetcode-%23ED8B00.svg?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
@@ -60,23 +68,22 @@ jinesh = {
 	<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 	<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 	<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-	<img alt="Heroku" src="https://img.shields.io/badge/heroku-%231572B6.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
-	<img alt="Selenium" src="https://img.shields.io/badge/selenium-%231572B6.svg?style=for-the-badge&logo=selenium&logoColor=white"/>
-	<img alt="Hibernate" src="https://img.shields.io/badge/hibernate-%231572B6.svg?style=for-the-badge&logo=hibernate&logoColor=white"/>
-	
-	
-	
-	
-	
-	
-	
-	
-	<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+	<img alt="Heroku" src="https://img.shields.io/badge/heroku-%231572B6.svg?style=for-the-badge&logo=heroku&logoColor=white&color=430098"/>
+	<img alt="Selenium" src="https://img.shields.io/badge/selenium-%231572B6.svg?style=for-the-badge&logo=selenium&logoColor=white&color=00B400"/>
+	<img alt="Hibernate" src="https://img.shields.io/badge/hibernate-%231572B6.svg?style=for-the-badge&logo=hibernate&logoColor=white&color=BCAE79"/>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jineshparakh&show_icons=true&locale=en&layout=compact" alt="jineshparakh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jineshparakh&show_icons=true&locale=en" alt="jineshparakh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jineshparakh&" alt="jineshparakh" /></p>
+
+
+<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+
+<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
 
