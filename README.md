@@ -22,30 +22,46 @@ Here are some ideas to get you started:
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<!-- <img width="30%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
 
-```python
+<!-- <h1> -->
+
+```python3
 jinesh = {
   "😄 Pronouns" : ["He", "Him"],
-  "🔭 Currently working as" : "Summer Intern @ UBS",
+  "👨‍💻 Studying" : {
+  	"Degree" : "Computer Engineering",
+	"College" : "Pune Institute of Computer Technology"
+  },
+  "🔭 Workplace" : {
+  	"Company" : "UBS",
+	"Position" : "Summer Intern",
+	"Department" : "Group Functions - Network Tools"
+  },
   "💡 Exploring" : "PrimeFaces & Hibernate",
   "👥 Communities" : {
         "Chairperson" : "PICT ACM Student Chapter",
         "CP Lead" : "DSC PICT", 
         "Editor in Chief" : "Pictoreal"    
-  }
+  },
+  
 }
 
 ```
+	
+<!-- </h1> -->
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40px"/> </h2>
 <p align="center">
-<a href="mailto:jineshparakh2000@gmail.com" target="blank"><img alt="Gmail" src="https://img.shields.io/badge/jineshparakh2000@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:jineshparakh2000@gmail.com" target="blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/jinesh-parakh/" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:jineshparakh@hotmail.com" target="blank"><img alt="Outlook" src="https://img.shields.io/badge/jineshparakh@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+<a href="mailto:jineshparakh@hotmail.com" target="blank"><img alt="Outlook" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+<a href="https://www.instagram.com/jinesh.parakh/" target="blank"><img alt="Outlook" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>	
+	
+	
 </p>
 
 
-<h2> Problem Solving Handles <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40px"/> </h2>
+<h3> Problem Solving Handles <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40px"/> </h2>
 <p align="center">
 <a href="https://www.codechef.com/users/jineshparakh" target="blank"><img alt="jineshparakh" src="https://img.shields.io/badge/codechef-%6C3B1C.svg?style=for-the-badge&logo=codechef&logoColor=white&color=6C3B1C"/></a>
 <a href="https://www.hackerrank.com/jineshparakh" target="blank"><img alt="jineshparakh" src="https://img.shields.io/badge/hackerrank-%59AA4D.svg?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
@@ -72,6 +88,19 @@ jinesh = {
 	<img alt="Selenium" src="https://img.shields.io/badge/selenium-%231572B6.svg?style=for-the-badge&logo=selenium&logoColor=white&color=00B400"/>
 	<img alt="Hibernate" src="https://img.shields.io/badge/hibernate-%231572B6.svg?style=for-the-badge&logo=hibernate&logoColor=white&color=BCAE79"/>
 </p>
+
+<h3 align="left">Some Projects:</h3>
+<div align="center">
+<div>
+<a href="https://github.com/jineshparakh/WebSpider" target="blank"><img alt="Web Spider" src="https://github-readme-stats.vercel.app/api/pin/?username=jineshparakh&repo=WebSpider" height="150px" width="400px" style="object-fit:scale-down;"/></a>
+<a href="https://github.com/jineshparakh/ExpenseManagerApp" target="blank"><img alt="Expense Manager App" src="https://github-readme-stats.vercel.app/api/pin/?username=jineshparakh&repo=ExpenseManagerApp"  height="150px" width="400px" style="object-fit:scale-down;" /></a>
+</div>
+<div>
+<a href="https://github.com/jineshparakh/Parking-Management-System" target="blank"><img alt="Parking Management" src="https://github-readme-stats.vercel.app/api/pin/?username=jineshparakh&repo=Parking-Management-System"  height="150px" width="400px" style="object-fit:scale-down;" /></a>
+<a href="https://github.com/jineshparakh/codeforcesChecker" target="blank"><img alt="Codeforces Checker" src="https://github-readme-stats.vercel.app/api/pin/?username=jineshparakh&repo=codeforcesChecker"  height="150px" width="400px" style="object-fit:scale-down;"/></a>	
+</div>	
+</div>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jineshparakh&show_icons=true&locale=en&layout=compact" alt="jineshparakh" /></p>
 
