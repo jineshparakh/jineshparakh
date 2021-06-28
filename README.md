@@ -76,10 +76,10 @@ jineshparakh.getInfo()
 
 
 <p align="center">
-<a href="mailto:jineshparakh2000@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/jinesh-parakh/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:jineshparakh@hotmail.com" target="_blank"><img alt="Outlook" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
-<a href="https://www.instagram.com/jinesh.parakh/" target="_blank"><img alt="Outlook" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:jineshparakh2000@gmail.com" target="_blank" rel="noopener noreferrer"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jinesh-parakh/" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:jineshparakh@hotmail.com" target="_blank" rel="noopener noreferrer"><img alt="Outlook" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+<a href="https://www.instagram.com/jinesh.parakh/" target="_blank" rel="noopener noreferrer"><img alt="Outlook" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 <!-- Connect With Me End -->
 
@@ -92,11 +92,11 @@ jineshparakh.getInfo()
 </h2>
 
 <p align="center">
-<a href="https://www.codechef.com/users/jineshparakh" target="_blank"><img alt="jineshparakh" src="https://img.shields.io/badge/codechef-%6C3B1C.svg?style=for-the-badge&logo=codechef&logoColor=white&color=6C3B1C"/></a>
-<a href="https://www.hackerrank.com/jineshparakh" target="_blank"><img alt="jineshparakh" src="https://img.shields.io/badge/hackerrank-%59AA4D.svg?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-<a href="https://codeforces.com/profile/jineshparakh" target="_blank"><img alt="jineshparakh" src="https://img.shields.io/badge/codeforces-%623151A.svg?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-<a href="https://www.leetcode.com/jineshparakh" target="_blank"><img alt="jineshparakh" src="https://img.shields.io/badge/leetcode-%23ED8B00.svg?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://www.hackerearth.com/@jineshparakh" target="_blank"><img alt="jineshparakh" src="https://img.shields.io/badge/hackererath-%2300599C.svg?style=for-the-badge&logo=hackerearth&logoColor=white"/></a>
+<a href="https://www.codechef.com/users/jineshparakh" target="_blank" rel="noopener noreferrer"><img alt="jineshparakh" src="https://img.shields.io/badge/codechef-%6C3B1C.svg?style=for-the-badge&logo=codechef&logoColor=white&color=6C3B1C"/></a>
+<a href="https://www.hackerrank.com/jineshparakh" target="_blank" rel="noopener noreferrer"><img alt="jineshparakh" src="https://img.shields.io/badge/hackerrank-%59AA4D.svg?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<a href="https://codeforces.com/profile/jineshparakh" target="_blank" rel="noopener noreferrer"><img alt="jineshparakh" src="https://img.shields.io/badge/codeforces-%623151A.svg?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+<a href="https://www.leetcode.com/jineshparakh" target="_blank" rel="noopener noreferrer"><img alt="jineshparakh" src="https://img.shields.io/badge/leetcode-%23ED8B00.svg?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://www.hackerearth.com/@jineshparakh" target="_blank" rel="noopener noreferrer"><img alt="jineshparakh" src="https://img.shields.io/badge/hackererath-%2300599C.svg?style=for-the-badge&logo=hackerearth&logoColor=white"/></a>
 </p>
 <!-- Problem Solving Handles Stop -->
 
@@ -134,12 +134,12 @@ jineshparakh.getInfo()
 
 <div align="center">
 	<div>
-		<a href="https://github.com/jineshparakh/WebSpider" target="_blank"><img alt="Web Spider" src="https://github-readme-stats.vercel.app/api/pin/?username=jineshparakh&repo=WebSpider" height="150px" width="400px" style="object-fit:scale-down; "/></a>
-		<a href="https://github.com/jineshparakh/ExpenseManagerApp" target="_blank"><img alt="Expense Manager App" src="https://github-readme-stats.vercel.app/api/pin/?username=jineshparakh&repo=ExpenseManagerApp"  height="150px" width="400px" style="object-fit:scale-down; " /></a>
+		<a href="https://github.com/jineshparakh/WebSpider" target="_blank" rel="noopener noreferrer"><img alt="Web Spider" src="https://github-readme-stats.vercel.app/api/pin/?username=jineshparakh&repo=WebSpider" height="150px" width="400px" style="object-fit:scale-down; "/></a>
+		<a href="https://github.com/jineshparakh/ExpenseManagerApp" target="_blank" rel="noopener noreferrer"><img alt="Expense Manager App" src="https://github-readme-stats.vercel.app/api/pin/?username=jineshparakh&repo=ExpenseManagerApp"  height="150px" width="400px" style="object-fit:scale-down; " /></a>
 	</div>
 	<div>
-		<a href="https://github.com/jineshparakh/Parking-Management-System" target="_blank"><img alt="Parking Management" src="https://github-readme-stats.vercel.app/api/pin/?username=jineshparakh&repo=Parking-Management-System"  height="150px" width="400px" style="object-fit:scale-down; " /></a>
-		<a href="https://github.com/jineshparakh/codeforcesChecker" target="blank"><img alt="Codeforces Checker" src="https://github-readme-stats.vercel.app/api/pin/?username=jineshparakh&repo=codeforcesChecker"  height="150px" width="400px" style="object-fit:scale-down; "/></a>	
+		<a href="https://github.com/jineshparakh/Parking-Management-System" target="_blank" rel="noopener noreferrer"><img alt="Parking Management" src="https://github-readme-stats.vercel.app/api/pin/?username=jineshparakh&repo=Parking-Management-System"  height="150px" width="400px" style="object-fit:scale-down; " /></a>
+		<a href="https://github.com/jineshparakh/codeforcesChecker" target="_blank" rel="noopener noreferrer"><img alt="Codeforces Checker" src="https://github-readme-stats.vercel.app/api/pin/?username=jineshparakh&repo=codeforcesChecker"  height="150px" width="400px" style="object-fit:scale-down; "/></a>	
 	</div>	
 </div>
 <!-- Projects End -->
