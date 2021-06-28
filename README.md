@@ -48,7 +48,7 @@ class JineshParakh:
                 "CP Lead" : "DSC PICT",
                 "Editor in Chief" : "Pictoreal"
             },
-            "⚡ Funfact" : "Could've added languages & handles over here itself but couldn't resist using badges"
+            "⚡ Funfact" : "Could've added languages & tools here itself but couldn't resist using badges"
         }
 
     def sayHello(self):
