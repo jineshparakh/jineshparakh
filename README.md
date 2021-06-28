@@ -1,19 +1,5 @@
-<!-- ### Hi there 👋 -->
 
-<!--
-**jineshparakh/jineshparakh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="100%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <h1 align="center">Hi 👋, I'm < Jinesh /></h1>
 <p align="center">
@@ -22,7 +8,6 @@ Here are some ideas to get you started:
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px align="center"></h2>
 
-<!-- <img width="30%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
 
 <!-- <h1> -->
 
@@ -45,13 +30,12 @@ class JineshParakh:
                 "Department" : "Group Functions - Network Tools"
             },
             "💡 Exploring" : "PrimeFaces & Hibernate",
-            "👥 Communities" : {
+            "👥 Positions of Responsibility" : {
                 "Chairperson" : "PICT ACM Student Chapter",
                 "CP Lead" : "DSC PICT",
                 "Editor in Chief" : "Pictoreal"
             },
             "⚡ Funfact" : "Could have added languages, tools & handles over here itself but couldn't resist using the badges"
-
         }
 
     def sayHello(self):
@@ -61,10 +45,10 @@ class JineshParakh:
         print(json.dumps(self.info, sort_keys=False, indent=4, ensure_ascii=False))
 
 
-jinesh = JineshParakh()
+jineshparakh = JineshParakh()
 
-jinesh.sayHello()
-jinesh.getInfo()
+jineshparakh.sayHello()
+jineshparakh.getInfo()
   
 ```
 
@@ -87,7 +71,8 @@ jinesh.getInfo()
 <a href="https://www.hackerearth.com/@jineshparakh" target="blank"><img alt="jineshparakh" src="https://img.shields.io/badge/hackererath-%2300599C.svg?style=for-the-badge&logo=hackerearth&logoColor=white"/></a>
 </p>
 <br>
-<h3 align="left">Languages and Tools:</h3>
+
+<h2 align="left">Languages and Tools <img src='https://upload.wikimedia.org/wikipedia/commons/5/55/Tool_animated.gif' width=55px height=55px align="center"/></h2>
 <p align="center">
 	<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
 	<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -107,7 +92,7 @@ jinesh.getInfo()
 </p>
 <br>
 
-<h3 align="left">Some Projects:</h3>
+<h2 align="left">Some Projects <img src='https://media.giphy.com/media/l3vR2SwA3hfH4NtVC/giphy.gif' width=55px height=55px align="center"/></h2>
 <div align="center">
 <div>
 <a href="https://github.com/jineshparakh/WebSpider" target="blank"><img alt="Web Spider" src="https://github-readme-stats.vercel.app/api/pin/?username=jineshparakh&repo=WebSpider" height="150px" width="400px" style="object-fit:scale-down;"/></a>
@@ -120,17 +105,20 @@ jinesh.getInfo()
 </div>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jineshparakh&show_icons=true&locale=en&layout=compact" alt="jineshparakh" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jineshparakh&show_icons=true&locale=en" alt="jineshparakh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jineshparakh&" alt="jineshparakh" /></p>
+<h2>Let's talk numbers <img src='https://media.giphy.com/media/CtYFOdVbvTfgZunPEA/giphy.gif' width=55px height=55px align="center"/></h2>
 
 
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+<p align="center">
+<img src='https://metrics.lecoq.io/jineshparakh?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=India
+ width='32px'> </p>
+
+ <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jineshparakh&theme=highcontrast" alt="jineshparakh" /></p>
+
+<br>
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+<p align="center">
+<img src="https://readme-jokes.vercel.app/api?theme=highcontrast">
+</p>
 
 
