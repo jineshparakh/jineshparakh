@@ -150,11 +150,10 @@ jineshparakh.getInfo()
 <h2>Let's talk numbers 
 	<img src='https://media.giphy.com/media/CtYFOdVbvTfgZunPEA/giphy.gif' width=55px height=55px align="center"/>
 </h2>
-
-<div>
-	<img align="left"src='https://metrics.lecoq.io/jineshparakh?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=India' width="450px" height="225px"/> 
-	<img align="right center" src="https://github-readme-streak-stats.herokuapp.com/?user=jineshparakh&theme=highcontrast" alt="jineshparakh" />
-</div>
+<p align="center">
+<img align="center" src='https://metrics.lecoq.io/jineshparakh?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=India'/> 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jineshparakh&theme=highcontrast" alt="jineshparakh" />
+</p>
 <!-- Stats End -->
 
 <br><br>
