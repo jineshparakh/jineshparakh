@@ -1,7 +1,7 @@
 
 <img width="100%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-<h1 align="center">Hi 👋, I'm < Jinesh /></h1>
+<h1 align="center">Hi 👋, I'm < Jinesh Parakh /></h1>
 <p align="center">
     <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=jineshparakh.visitor.badge.reloaded.23.5.2021&color=55acb7&style=for-the-badge&logo=Github&text=Profile_Views" alt="Jinesh's Profile Views" />
 </p>
@@ -35,7 +35,7 @@ class JineshParakh:
                 "CP Lead" : "DSC PICT",
                 "Editor in Chief" : "Pictoreal"
             },
-            "⚡ Funfact" : "Could have added languages, tools & handles over here itself but couldn't resist using the badges"
+            "⚡ Funfact" : "Could have added languages & handles over here itself but couldn't resist using the badges"
         }
 
     def sayHello(self):
@@ -107,14 +107,12 @@ jineshparakh.getInfo()
 
 <h2>Let's talk numbers <img src='https://media.giphy.com/media/CtYFOdVbvTfgZunPEA/giphy.gif' width=55px height=55px align="center"/></h2>
 
+<div>
+<img align="left"src='https://metrics.lecoq.io/jineshparakh?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=India' width="450px" height="225px"> 
+<img align="right center" src="https://github-readme-streak-stats.herokuapp.com/?user=jineshparakh&theme=highcontrast" alt="jineshparakh" />
+</div>
 
-<p align="center">
-<img src='https://metrics.lecoq.io/jineshparakh?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=India
- width='32px'> </p>
-
- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jineshparakh&theme=highcontrast" alt="jineshparakh" /></p>
-
-<br>
+<br><br>
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 <p align="center">
