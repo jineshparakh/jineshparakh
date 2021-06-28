@@ -1,7 +1,7 @@
 <!-- Glad to see you diving deep into my README. If you've come this far, a ⭐ to this repo will be much appreciated ;)  -->
 
 <!-- GitHub Intro Banner Start -->
-<img width="100%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<!-- <img width="100%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
 <!-- GitHub Intro Banner End -->
 
 
@@ -19,7 +19,7 @@
 
 <!-- About Me Start -->
 <h2> About Me 
-	<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px align="center">
+	<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 75px align="center">
 </h2>
 
 <!-- Intro Code Start -->
@@ -71,7 +71,7 @@ jineshparakh.getInfo()
 
 <!-- Connect With Me Start -->
 <h2> Connect with me 
-	<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" align="center"/>
+	<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="65px" align="center"/>
 </h2>
 
 
@@ -88,7 +88,7 @@ jineshparakh.getInfo()
 <!-- Problem Solving Handles Start -->
 
 <h2> Problem Solving Handles  
-	<img src='https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif' width=45px height=45px align="center"/> 
+	<img src='https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif' width=55px height=55px align="center"/> 
 </h2>
 
 <p align="center">
@@ -111,17 +111,17 @@ jineshparakh.getInfo()
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-<img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
+<img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+<img alt="Hibernate" src="https://img.shields.io/badge/hibernate-%231572B6.svg?style=for-the-badge&logo=hibernate&logoColor=white&color=BCAE79"/>
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img alt="Selenium" src="https://img.shields.io/badge/selenium-%231572B6.svg?style=for-the-badge&logo=selenium&logoColor=white&color=00B400"/>
+<img alt="Heroku" src="https://img.shields.io/badge/heroku-%231572B6.svg?style=for-the-badge&logo=heroku&logoColor=white&color=430098"/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img alt="Heroku" src="https://img.shields.io/badge/heroku-%231572B6.svg?style=for-the-badge&logo=heroku&logoColor=white&color=430098"/>
-<img alt="Selenium" src="https://img.shields.io/badge/selenium-%231572B6.svg?style=for-the-badge&logo=selenium&logoColor=white&color=00B400"/>
-<img alt="Hibernate" src="https://img.shields.io/badge/hibernate-%231572B6.svg?style=for-the-badge&logo=hibernate&logoColor=white&color=BCAE79"/>
+<img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
 
 </p>
 <!-- Languages & Tools End -->
@@ -160,7 +160,7 @@ jineshparakh.getInfo()
 
 <!-- Humour Stuff Start -->
 <h2> Some Programming Humour for you 
-	<img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'>
+	<img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = 55px height=55px>
 </h2>
 
 <p align="center">
