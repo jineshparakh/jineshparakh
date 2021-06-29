@@ -42,7 +42,7 @@ class JineshParakh:
                 "Position" : "Summer Intern",
                 "Department" : "Group Functions - Network Tools"
             },
-            "💡 Exploring" : "PrimeFaces & Hibernate",
+            "💡 Exploring" : ["PrimeFaces", "Hibernate"],
             "👥 Positions of Responsibility" : {
                 "Chairperson" : "PICT ACM Student Chapter",
                 "CP Lead" : "DSC PICT",
