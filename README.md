@@ -166,4 +166,4 @@ jineshparakh.getInfo()
 <p align="center">
 	<img src="https://readme-jokes.vercel.app/api?theme=highcontrast">
 </p>
-<!-- Humour Stuff End -->
+<!-- Humour Stuff End  -->
