@@ -11,7 +11,9 @@
 <p align="center">
 
 <!-- Visitor Badge -->
-<img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=jineshparakh.visitor.badge.reloaded.23.5.2021&color=55acb7&style=for-the-badge&logo=Github&text=Profile_Views" alt="Jinesh's Profile Views" />
+<!-- ![](https://api.visitorbadge.io/api/VisitorHit?user=jineshparakhf&repo=github-visitors-badge&countColor=%237B1E7A) -->
+<img src="https://api.visitorbadge.io/api/VisitorHit?user=jineshparakhf&repo=github-visitors-badge&countColor=%237B1E7A" alt="Jinesh's Profile Views" />
+<!-- <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=jineshparakh.visitor.badge.reloaded.23.5.2021&color=55acb7&style=for-the-badge&logo=Github&text=Profile_Views" alt="Jinesh's Profile Views" /> -->
 
 </p>
 <!-- Salutation End -->
